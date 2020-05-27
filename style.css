@@ -16,8 +16,17 @@ body {
 .date {
   color: #3498db;
   text-transform: uppercase;
+  font-size: 1.4rem;
   letter-spacing: 0.2rem;
   text-align: center;
+}
+
+/* iframe {
+    alignment: center;
+} */
+
+h1 {
+    text-align: center;
 }
 
 h2 {
