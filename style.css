@@ -21,9 +21,14 @@ body {
   text-align: center;
 }
 
-/* iframe {
-    alignment: center;
-} */
+.vidwrap {
+    text-align: center;
+}
+
+iframe {
+    border: 10px solid black;
+    /* margin: auto auto; */
+}
 
 h1 {
     text-align: center;
